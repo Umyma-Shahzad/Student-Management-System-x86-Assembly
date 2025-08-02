@@ -56,7 +56,7 @@ An interactive **Student Management System** written in **x86 Assembly Language*
   
 ---
 
-## 🤝 Contributing
+## 🤝 Contributions
 Contributions are welcome! Open an issue or pull request for any improvements, bug fixes, or new features.
 
 ---
